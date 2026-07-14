@@ -1,0 +1,12 @@
+/* ============================================================
+   SMART-TRADE 360° — Feuille de style principale
+   Importer uniquement ce fichier dans main.jsx.
+
+   Architecture :
+     variables.css  → tokens de design (couleurs, typo, spacing…)
+     base.css       → reset, corps, classes utilitaires partagées
+     [pages].css    → styles spécifiques à chaque page/composant
+   ============================================================ */
+
+@import './variables.css';
+@import './base.css';
